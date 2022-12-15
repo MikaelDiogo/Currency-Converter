@@ -4,6 +4,7 @@
 
 
 <h3>Conversor de Moedas</h3>
+<h4>Feito em React Js</h4>
 <img src="Captura de tela_2022-12-14_23-45-28.png">
 
 <p>Obs:O conversor está em inglês e português por esquecimento na hora de trocar</p>
