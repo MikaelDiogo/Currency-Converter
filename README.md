@@ -6,4 +6,4 @@
 <h3>Conversor de Moedas</h3>
 <img src="Captura de tela_2022-12-14_23-45-28.png">
 
-<p>Obs:Esquecemos trocar a escrita do Conversor, por isso está Ingls e Portug</p>
+<p>Obs:Esquecemos trocar a escrita do Conversor, por isso está Inglês e Portug</p>
